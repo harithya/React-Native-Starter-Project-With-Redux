@@ -1,5 +1,6 @@
 const color = {
-    exampleColor: '#fffff'
+    white: '#fffff',
+    ripple: '#bdbdbd',
 }
 
 export default color;
